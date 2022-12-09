@@ -5,4 +5,4 @@ New Code
     console.log (x)
    
    ## Contact me
-   [my email](mailito:dallkuylli@gmail.com)
+   [my email][mailto:dallkuylli@gmail.com] dallkuylli@gmail.com 
